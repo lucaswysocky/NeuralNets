@@ -36,7 +36,7 @@ to predict if a sample shows invasive Ductal Carcinoma (IDC), the most common of
 
 ### Future improvements
 
-* Implementation of Deep Mind's Differentiable Neural Computer architecture (https://www.nature.com/articles/nature20101).
+* Implementation of the Deep Mind's Differentiable Neural Computer architecture (https://www.nature.com/articles/nature20101).
 
 
 ### Acknowledgements
