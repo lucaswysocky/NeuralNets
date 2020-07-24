@@ -27,7 +27,7 @@ Tutorial implementation:
 
 The notebooks feature an array of practice exercises for implementing Convolutional Neural Networks and Recurrent Neural Networks.
 
-The *breast-cancer-calssification* folder is an implementation of the tutorial from pyimagesearch.com:
+The *breast-cancer-classification* folder is an implementation of the tutorial from pyimagesearch.com:
 https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/  
 The goal is to train a CNN using breast histopathology images (from https://www.kaggle.com/paultimothymooney/breast-histopathology-images/) 
 to predict if a sample shows invasive Ductal Carcinoma (IDC), the most common of all breast cancer.
