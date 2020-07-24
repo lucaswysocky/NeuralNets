@@ -2,7 +2,7 @@
 
 ### Project description
 
-A repostory with some of the resources I used to practice implementing neural networks.
+A repository with some of the resources I used to practice implementing neural networks.
 
 
 ### Objective
@@ -41,4 +41,4 @@ to predict if a sample shows invasive Ductal Carcinoma (IDC), the most common of
 
 ### Acknowledgements
 
-Many thanks to Adrian Rosebrock, who prepared an amazing tutorial!
+Many thanks to Adrian Rosebrock, who prepared the amazing tutorial!
